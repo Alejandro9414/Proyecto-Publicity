@@ -1,0 +1,501 @@
+body{
+    margin: 0;
+    background-color: #ffeeee;
+}
+
+
+
+.container-fluid .navbar-brand img{
+    width: 35px;
+}
+
+
+.navbar-light .navbar-nav .nav-item a:visited{
+    color: #ffff;
+}
+.navbar-light .navbar-nav .nav-item a{
+    color: #ffff;
+}
+
+.navbar-light .navbar-nav .nav-item a:hover{
+    color: #ff0000;
+}
+
+
+.navbar .container-fluid  a:visited {
+    color: #ffff;
+}
+
+
+.navbar .container-fluid  a {
+    color: #ffff;
+}
+
+
+.navbar .container-fluid  a:hover{
+    color: #ff0000;
+}
+
+
+
+.container-fluid  .actions img{
+    width: 35px;
+}
+
+.main{
+    margin-top: 120px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.main h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+
+.main p{
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+
+.card-container {
+    background-color: #d68383;
+    padding: 5% 15%;
+  }
+  
+  .comments h1 {
+    color: #570202;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 51px;
+    line-height: 61px;
+    letter-spacing: -2px;
+
+  }
+  
+  .comments p {
+    font-size: 18px;
+    color: #343434;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+  }
+  
+  .comments .btn-beefy {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    padding-top: 12px;
+    text-align: center;
+    color: #fff;
+    background: #025157;
+    border-radius: 8px;
+    height: 45px;
+    width: 166px;
+    transition: all .2s ease-in-out;
+  }
+  
+  .comments .btn-beefy:hover {
+    background-color: #67b54b;
+    color: #fff;
+  }
+  
+  .comments img {
+    width: 450px;
+    margin-top: 40px;
+    padding-right: 10px;
+  }
+
+
+.cajaProductos{
+    text-align:center;
+    margin: 30px;
+}
+
+.cajaProductos h2{
+    color:#797979;
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.Productos{
+    display:flex;
+    align-items: center;
+}
+
+
+
+.itemProducto{
+    margin:10px;
+    height: 340px;
+    width: 288px;
+    
+
+}
+
+.itemProducto a{
+    text-decoration: none;
+}
+
+.itemProducto a:visited {
+    color: black;
+}
+.controlC button {
+    width: unset;
+}
+
+.controlC button{
+    width: 35px;
+    height: 35px;
+    background-color: rgb(255, 193, 193);
+    border-radius: 50%;
+    border-width: 0;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 19%);
+    cursor: pointer;
+    outline: 0;
+    position: absolute;
+    top: 35%;
+    z-index: 2;  
+}
+
+
+.card-container .container .card .card-body{
+    padding: 25px;
+}
+
+.card-container .container .card .card-body h4{
+    color: #570202;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-bottom: 12px;
+    font-family: "Slabo 27px", serif;
+
+}
+.card-container{
+    height: 1000px;
+}
+.card-container .container .card  .card-body h3{
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+
+.card-body p{
+    color:#8b8b8bcc;
+
+}
+
+.card-container .container .card  .card-body img{
+    width: 26px;
+    margin-right: 20px;
+}
+
+
+.card-container .container .card  .card-body .results{
+    display: flex;
+    align-items: center;
+    color: #828282;
+}
+
+.card-container .container .card .card-footer button{
+    display: block;
+    margin-left: 0;
+    border-radius: 5px;
+    font-size: 13;
+    font-weight: 600;
+    padding: 12px 20px;
+    width: 100%;
+    background-color: #570202;
+    color: #fff;
+    font-family: inherit;
+    line-height: inherit;
+    margin-bottom: 20px;
+    border: none;
+}
+
+.card-container .container .card .card-footer{
+    margin-bottom: 20px;
+    background-color: unset;
+    border-top: unset;
+    padding: 25px;
+}
+
+.imgProductos{
+    margin-bottom: 0;
+}
+.imgProductos img{
+    width:157px ;    
+}
+
+.imgProductosT{
+    margin-bottom: 0;
+}
+.imgProductosT img{
+    height:157px;    
+}
+
+.card-body h5{
+    margin-bottom: 5px;
+    height:48px; 
+}
+
+.card-text{
+    margin-bottom: 5px;
+}
+
+
+.container-Info {
+    background-color: #212121;
+    padding: 5% 15%;
+}
+
+.comments .info img {
+    width: 150px;
+    margin-top: 10;
+    margin-bottom: 20px;
+    margin-left: 180px;
+  }
+
+
+.info h3{
+    color: #ffffff;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 30px; 
+    line-height: 40px; 
+    letter-spacing: 1.5px;
+}
+
+.info p{
+    font-size: 18px;
+    color: #b6b6b6;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+strong{
+    font-weight:900;
+}
+
+.servicio{
+    margin:200px 0;
+}
+.contacto{
+    margin-left: 40px;
+    margin-top: 230px;
+}
+
+.contacto .figure-item{
+    display: flex;
+    align-items: center;
+    
+}
+
+.contacto h3{
+    color: #ffffff;
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 61px;
+    letter-spacing: 1.5px;
+}
+.figure-item img{
+    width: 35px;
+    height: 35px;
+    margin-right: 30px;
+
+}
+.contacto p{
+    font-size: 18px;
+    color: #b6b6b6;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.card-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.card-body p{
+    color:rgb(109, 109, 109);
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+.strong-precio{
+    font-size: 22px;
+    color:red;
+    font-weight:600;
+}
+
+
+.portafolio{
+    
+    margin-top: 0;
+    margin-bottom: 100px;
+    text-align: center;
+    height: 500px;
+    padding-top:90px ;
+   
+}
+
+.features {
+    display: grid;
+    grid-template: repeat(2,1fr) / repeat(4,1fr);
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 20px;
+
+    
+
+}
+
+.cajaProductos{
+    padding-top:100px ;
+}
+
+
+
+.features-card{
+    
+    width: 250;
+    height:200px;
+    margin:0 15px 30px;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+}
+
+.features-imagen img {
+    width:100% ;
+    height: 200px;
+    object-fit: conver;
+    display:block;
+    
+}
+
+.portafolio h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+
+}
+
+.hover-galeria{
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+   /* transform: scale(0);*/
+    background: hsla(0, 91%, 27%, 0.7);
+    transition: transform .5s;
+    display: flex;
+    content:center ;
+    align-items:center ;
+    flex-direction: column;
+    padding-top: 40px;
+}
+
+.features-imagen:hover .hover-galeria{
+    transform: scale(0);
+}
+
+.hover-galeria p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    opacity: 0.7;
+    color:rgb(228, 228, 228);
+}
+
+.hover-galeria img{
+    width: 70px;
+    height: 70px;
+    opacity: 0.7;
+}
+
+
+.servicio{
+    text-align: center;
+    padding-top: 80px;
+    margin-top: 50px;
+    margin-bottom:50px;
+   
+}
+
+.servicio h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+
+.servicio p{
+    margin-top: 5px;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.login .input-main{
+    font-size: 1rem;
+    height: calc(100% - 14px);
+    border: 1px solid #b6b6b6;
+    border-radius: 8px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    padding:12px 14px;
+    max-width: 250px;
+}
+
+.login .button {
+    position: relative;
+    background-color: #570202;
+    border: 10px;
+    padding:12px 14px;
+    border-radius: 8px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0; 
+    font-size: 1rem; 
+    margin: -10px;
+    color: #FFFFFF;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  .login .button:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+  }
+  
+  .login .button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+  }
